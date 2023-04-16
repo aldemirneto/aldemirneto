@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
    ![](https://visitor-badge.glitch.me/badge?page_id=aldemirneto.aldemirneto)
    - 👨‍💻 All of my projects are available at [https://aldemirneto.github.io/port/](https://aldemirneto.github.io/port/)
-   - Aspiring Data Engineer
+   - ETL Developer with a deep interest in Data Engineering topics
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
