@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice seeing you around here, i'm Aldemir</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice seeing you around here, i'm Aldemir!</h1>
 
    ![](https://visitor-badge.glitch.me/badge?page_id=aldemirneto.aldemirneto)
    - 👨‍💻 All of my projects are available at [https://aldemirneto.github.io/port/](https://aldemirneto.github.io/port/)
