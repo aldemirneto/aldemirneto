@@ -1,6 +1,6 @@
 # Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Aldemir!
 
-Welcome to my GitHub profile! I'm an **ETL Developer** with a deep passion for **Data Engineering** and building scalable data solutions.
+Welcome to my GitHub profile! I'm an **Data Engineer** with a deep passion for **Data Engineering** and building scalable data solutions.
 
 ## 🚀 About Me
 
